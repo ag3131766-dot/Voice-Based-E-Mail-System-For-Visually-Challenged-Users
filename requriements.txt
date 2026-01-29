@@ -1,0 +1,6 @@
+speechrecognition
+pyttsx3
+pyaudio
+On windows,install PyAudio using:
+pip install pipwin
+pipwin install pyaudio
